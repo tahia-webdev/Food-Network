@@ -1,0 +1,39 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.colored-word{
+    color:rgb(255, 167, 2);
+    text-shadow: 1px 1px rgb(248, 175, 17);
+    
+}
+p{
+    font-size: 12px;
+}
+h1{
+    font-size: 35px;
+}
+h3{
+    font-size: 35px;
+}
+section{
+    display: flex;
+    color: rgb(104, 98, 98);
+}
+.divide{
+    width: 500px;
+    padding-left: 2%;
+    padding-right: 3%;
+    text-align: justify;
+}
+.divide img{
+    width: 50%;
+    
+}
+.join-button{
+    text-decoration: none;
+    background-image: linear-gradient(to right,rgb(248, 175, 17),tomato);
+    color: white;
+    padding : 10px 40px;
+    border-radius: 20px;
+    
+}

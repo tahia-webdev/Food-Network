@@ -8,6 +8,7 @@ body{
 }
 p{
     font-size: 12px;
+    
 }
 h1{
     font-size: 35px;
@@ -18,6 +19,7 @@ h3{
 section{
     display: flex;
     color: rgb(104, 98, 98);
+    
 }
 .divide{
     width: 500px;
@@ -27,7 +29,6 @@ section{
 }
 .divide img{
     width: 50%;
-    
 }
 .join-button{
     text-decoration: none;
@@ -35,5 +36,5 @@ section{
     color: white;
     padding : 10px 40px;
     border-radius: 20px;
-    
 }
+
